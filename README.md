@@ -5,6 +5,7 @@
 - 🌍 **坐标**: Shanghai/Hangzhou,Zhejiang
 - 💡 **兴趣领域**: 工业软件，工业工程（或许？）
 - 🚀 **当前目标**: 做CS里EE最优秀的，EE里CS最优秀的人
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnalyseDeCircuit&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnalyseDeCircuit&layout=compact)
 
