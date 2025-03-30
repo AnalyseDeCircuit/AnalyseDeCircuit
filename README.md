@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Dimanche]/Salut!Je suis[Dimanche]
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnalyseDeCircui&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnalyseDeCircui&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnalyseDeCircuit&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnalyseDeCircuit&layout=compact)
 
 ## 🛠️ Tech Stack
 
