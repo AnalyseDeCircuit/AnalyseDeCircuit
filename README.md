@@ -17,7 +17,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnalyseDeCircuit&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnalyseDeCircuit&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnalyseDeCircuit&layout=compact&cache_seconds=0)
 
 ## 📚 技术方向（我曾学习过或正在学习）  
 ### Technical Focus (Learned/Currently Learning)  
