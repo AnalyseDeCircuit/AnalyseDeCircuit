@@ -11,10 +11,22 @@
 - 🚀 **Current Goal**:  
   To be the best at EE among CS specialists, and the best at CS among EE specialists
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnalyseDeCircuit&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnalyseDeCircuit&layout=compact&cache_seconds=0)
-
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <a href="https://github.com/AnalyseDeCircuit">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=AnalyseDeCircuit&theme=radical"
+      alt="GitHub Stats"
+      style="width: 43%; height: auto; display: block;" 
+    />
+  </a>
+  <a href="https://github.com/AnalyseDeCircuit">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnalyseDeCircuit&layout=compact&cache_seconds=0"
+      alt="Top Langs"
+      style="width: 47%; height: auto; display: block;" 
+    />
+  </a>
+</div>
 ## 📚 Technical Focus (Learned/Currently Learning)   
 ### 🤖 Artificial Intelligence(learning recently)
   - Python
@@ -34,14 +46,11 @@
 
 
 ## 🛠 Tech Stack
-
-[![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)](https://code.visualstudio.com/)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)](https://www.linux.org/)
-[![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)](https://www.gnu.org/software/bash/)
-[![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square)](https://en.cppreference.com/w/c/language)
-[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)](https://isocpp.org/)
-
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,bash,anaconda,git,linux,unity,vscode" />
+  </a>
+</p>
 
 <!---
 AnalyseDeCircuit/AnalyseDeCircuit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
