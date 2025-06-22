@@ -27,19 +27,20 @@
     />
   </a>
 </div>
+
 ## 📚 Technical Focus (Learned/Currently Learning)   
 ### 🤖 Artificial Intelligence(learning recently)
   - Python
   - Reinforcement Learning
   - LLM
   - Robot
-  - 计算机视觉  
+  - Computer Vision
     (OpenCV, YOLO)
 
 ### 📡 DSP
   - DTFT
   - MATLAB 
-  - 滤波器设计
+  - Filter Design
 
 
 
