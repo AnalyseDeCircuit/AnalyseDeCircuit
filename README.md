@@ -1,15 +1,17 @@
 # Hi, I'm Dimanche!
 > **"Code as art, each line a sculpture of logic（or :poop:）"**  
 > ― Industrial Poet
-## 👨💻 About me
-- 🎓 **Educational Background**:  
-  SHU，information engeneering
-- 🌍 **Location**:  
-  Shanghai
-- 💡 **Interests**:  
-  Reinforcement Learning,Industrial Engineering
-- 🚀 **Current Goal**:  
+## About me
+- **Educational Background**:  
+  SHU,information engeneering
+- **Location**:  
+  Shanghai,China
+- **Interests**:  
+  Reinforcement Learning,LLM
+- **Current Goal**:  
   To be the best at EE among CS specialists, and the best at CS among EE specialists
+- **My Blog**:  
+  https://analysedecircuit.github.io/
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <a href="https://github.com/AnalyseDeCircuit">
@@ -28,16 +30,14 @@
   </a>
 </div>
 
-## 📚 Technical Focus (Learned/Currently Learning)   
-### 🤖 Artificial Intelligence(learning recently)
+##  Technical Focus (Learned/Currently Learning)   
+###  Artificial Intelligence(learning recently)
   - Python
   - Reinforcement Learning
   - LLM
   - Robot
-  - Computer Vision
-    (OpenCV, YOLO)
 
-### 📡 DSP
+###  DSP
   - DTFT
   - MATLAB 
   - Filter Design
@@ -49,7 +49,7 @@
 ## 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,bash,anaconda,git,linux,unity,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,bash,python,anaconda,git,linux,latex,unity,vscode" />
   </a>
 </p>
 
