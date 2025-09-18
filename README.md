@@ -5,9 +5,9 @@
 - **Educational Background**:  
   SHU,information engeneering
 - **Location**:  
-  Shanghai,China
+  Shanghai/Hangzhou,China
 - **Interests**:  
-  Reinforcement Learning,LLM
+  Reinforcement Learning,LLM,Robot.Embodied AI
 - **Current Goal**:  
   To be the best at EE among CS specialists, and the best at CS among EE specialists
 - **My Blog**:  
