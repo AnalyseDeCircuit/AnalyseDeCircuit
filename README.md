@@ -3,11 +3,11 @@
 > ― Industrial Poet
 ## About me
 - **Educational Background**:  
-  SHU,information engeneering
+  SHU,information engeneering -----> Beihang University (incoming M.S. student)
 - **Location**:  
   Shanghai/Hangzhou,China
 - **Interests**:  
-  Reinforcement Learning,LLM,Robot.Embodied AI
+  Reinforcement Learning,LLM,Robot.Embodied AI,Multimodality
 - **Current Goal**:  
   To be the best at EE among CS specialists, and the best at CS among EE specialists
 - **My Blog**:  
@@ -34,13 +34,13 @@
 ###  Artificial Intelligence(learning recently)
   - Python
   - Reinforcement Learning
-  - LLM
-  - Robot
+  - NLP&LLM
+  - Multimodality
 
-###  DSP
-  - DTFT
-  - MATLAB 
-  - Filter Design
+###  Signal & System
+  - Signal Processing
+  - Image Processing
+  - Digital Signal Processing
 
 
 
