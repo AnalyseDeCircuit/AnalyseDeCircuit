@@ -1,4 +1,4 @@
-# Hi, I'm Dimanche!
+# Hi, I'm LaTerrasse!
 > **"Code as art, each line a sculpture of logic（or :poop:）"**  
 > ― Industrial Poet
 ## About me
