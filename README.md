@@ -1,6 +1,16 @@
+
+
 # Hi, I'm LaTerrasse!
-> **"Code as art, each line a sculpture of logic（or :poop:）"**  
-> ― Industrial Poet
+
+
+> VINIQUE FONTEM LACTIS ET VBERES  
+> CANTARE RIVOS  TRVNCIS LAPSA CAVIS  
+> ITERARE MELLA PLENOQVE BACCHI  
+> PECTORE TVRBIDVM LAETATVR  
+> CREDITE POSTERI
+>  
+> **HYMNUS AD BACCHUM**
+
 ## About me
 
 
