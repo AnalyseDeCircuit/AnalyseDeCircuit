@@ -2,15 +2,27 @@
 > **"Code as art, each line a sculpture of logic（or :poop:）"**  
 > ― Industrial Poet
 ## About me
-- **Educational Background**:  
-  SHU,information engeneering -----> Beihang University (BUAA) (incoming M.S. student)
-- **Location**:  
+
+
+### **Educational Background**:
+  
+<p>
+  <img src="https://raw.githubusercontent.com/AnalyseDeCircuit/AnalyseDeCircuit/main/shulogo.svg" width="200" alt="SHU"/>
+  <svg width="36" height="36" viewBox="0 0 24 24" fill="#ff3b30" style="margin:0 1rem;">
+    <path d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"/>
+  </svg>
+  <img src="https://raw.githubusercontent.com/AnalyseDeCircuit/AnalyseDeCircuit/main/buaalogo.svg" width="310" alt="BUAA"/>
+</p>
+
+  - Shanghai University (SHU), Information Engineering 
+  - Beihang University (BUAA), incoming M.S. student
+### **Location**:  
   Shanghai/Hangzhou,China
-- **Interests**:  
+### **Interests**:  
   Reinforcement Learning,LLM,NLP,Multimodality
-- **Current Goal**:  
+### **Current Goal**:  
   To be the best at EE among CS specialists, and the best at CS among EE specialists
-- **My Blog**:  
+### **My Blog**:  
   https://analysedecircuit.github.io/
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
