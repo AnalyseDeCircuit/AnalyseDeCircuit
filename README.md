@@ -24,8 +24,9 @@
   <img src="https://raw.githubusercontent.com/AnalyseDeCircuit/AnalyseDeCircuit/main/buaalogo.svg" width="310" alt="BUAA"/>
 </p>
 
-  - Shanghai University (SHU), Information Engineering 
-  - Beihang University (BUAA), incoming M.S. student
+- **Shanghai University (SHU)** | B.Eng. in Information Engineering | 2022 - 2026
+- **Beihang University (BUAA)** | Incoming M.S. in Computer Science | 2026 - 
+
 ### **Location**:  
   Shanghai/Hangzhou,China
 ### **Interests**:  
@@ -53,16 +54,16 @@
 </div>
 
 ##  Technical Focus (Learned/Currently Learning)   
-###  Artificial Intelligence(learning recently)
-  - Python
-  - Reinforcement Learning
-  - NLP&LLM
-  - Multimodality
+###  Artificial Intelligence(learning recently & core focus)
+- **Deep Learning**: PyTorch, Transformers, LLM Reasoning (Uncertainty Estimation)
+- **Reinforcement Learning**: Gymnasium, Stable Baselines3
+- **NLP**: Text Generation, Prompt Engineering
 
 ###  Signal & System
   - Signal Processing
-  - Image Processing
   - Digital Signal Processing
+  - **Stochastic Processes** (learning recently)
+  - **Information Theory** (learning recently)
 
 
 
