@@ -18,23 +18,6 @@
 ### **My Blog**:  
   https://analysedecircuit.github.io/
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <a href="https://github.com/AnalyseDeCircuit">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=AnalyseDeCircuit&theme=radical"
-      alt="GitHub Stats"
-      style="width: 43%; height: auto; display: block;" 
-    />
-  </a>
-  <a href="https://github.com/AnalyseDeCircuit">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnalyseDeCircuit&layout=compact&cache_seconds=0"
-      alt="Top Langs"
-      style="width: 47%; height: auto; display: block;" 
-    />
-  </a>
-</div>
-
 ##  Technical Focus (Learned/Currently Learning)   
 ###  Artificial Intelligence(learning recently & core focus)
 - **Deep Learning**: PyTorch, Transformers, LLM Reasoning (Uncertainty Estimation)
