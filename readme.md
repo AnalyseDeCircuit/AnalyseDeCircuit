@@ -21,14 +21,9 @@
 ##  Technical Focus (Learned/Currently Learning)   
 ###  Artificial Intelligence(learning recently & core focus)
 - **Deep Learning**: PyTorch, Transformers, LLM Reasoning (Uncertainty Estimation)
-- **Reinforcement Learning**: Gymnasium, Stable Baselines3
+- **Trustworthy AI**
 - **NLP**: Text Generation, Prompt Engineering
-
-###  Signal & System
-  - Signal Processing
-  - Digital Signal Processing
-  - **Stochastic Processes** (learning recently)
-  - **Information Theory** (learning recently)
+- **Agents**
 
 
 
@@ -37,7 +32,7 @@
 ## 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,git,linux,latex,typst,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,git,linux,latex,vscode" />
   </a>
 </p>
 
