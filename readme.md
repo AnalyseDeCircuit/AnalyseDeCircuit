@@ -37,7 +37,7 @@
 ## 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,anaconda,git,linux,latex,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,python,git,linux,latex,typst,vscode" />
   </a>
 </p>
 
