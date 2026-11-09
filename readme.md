@@ -22,9 +22,13 @@ LLM,NLP,LLM calibration,LLM reliability,Trustworthy AI,Linguistics
 ###  Artificial Intelligence(learning recently & core focus)
 - **Deep Learning**: LLM Reasoning (Uncertainty Estimation)
 - **LLM Calibration**
-- **NLP**: 
-- **Agents**
 - **Trustworthy AI**
+- **Agents**
+- **NLP**
+### PHM（Prognostics and Health Management）
+- PHM with LLM
+
+
 
 
 
