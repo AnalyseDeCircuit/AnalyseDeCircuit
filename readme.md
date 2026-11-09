@@ -12,7 +12,7 @@
 
 
 ### **Interests**:  
-  Reinforcement Learning,LLM,NLP,Multimodality
+LLM,NLP,LLM calibration,LLM reliability,Trustworthy AI,Linguistics
 ### **Current Goal**:  
   To be the best at EE among CS specialists, and the best at CS among EE specialists
 ### **My Blog**:  
