@@ -20,10 +20,11 @@ LLM,NLP,LLM calibration,LLM reliability,Trustworthy AI,Linguistics
 
 ##  Technical Focus (Learned/Currently Learning)   
 ###  Artificial Intelligence(learning recently & core focus)
-- **Deep Learning**: PyTorch, Transformers, LLM Reasoning (Uncertainty Estimation)
-- **Trustworthy AI**
-- **NLP**: Text Generation, Prompt Engineering
+- **Deep Learning**: LLM Reasoning (Uncertainty Estimation)
+- **LLM Calibration**
+- **NLP**: 
 - **Agents**
+- **Trustworthy AI**
 
 
 
